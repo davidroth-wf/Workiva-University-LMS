@@ -13,7 +13,7 @@ footer { font-size: .9em; }
 /* Layout */
 .page { max-width: 980px; margin: 0px auto; padding: 0px; }
 header { position: relative; height: 100px; margin: 0px; padding-top: 80px; background: url(../images/banner.jpg) no-repeat 50% 0px; }
-header a.logo { width: 120px; height: 70px; position: absolute; top: 15px; left: 15px; background: url(../images/logo.png) no-repeat 0px 0px; display: inline-block; }
+header a.logo { width: 172px; height: 70px; position: absolute; top: 15px; left: 15px; background: url(../images/WdeskUniversity.png) no-repeat 0px 0px; display: inline-block; }
 nav { background-color: #113f1e; }
 article {max-height: 500px; margin: 0px; padding: 25px; background-color: #fff; }
 aside { width: 200px; float: right; margin: 0px 0px 10px 40px; padding: 0px 0px 0px 20px; border-left: 2px solid #ccc; }
